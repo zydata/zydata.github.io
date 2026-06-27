@@ -2,5 +2,6 @@
 layout: home
 ---
 
-### welcome my blog
-Building, Coming soon.
+### 欢迎来到我的博客
+
+这是我完全从 0 开始搭建的个人网站。
