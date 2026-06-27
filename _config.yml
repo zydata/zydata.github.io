@@ -1,7 +1,0 @@
-title: 我的极简博客
-description: 记录生活与想法的地方
-theme: minima
-
-header_pages:
-  - index.md
-  - about.md
